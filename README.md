@@ -1,4 +1,4 @@
-<![CDATA[<div align="center">
+<div align="center">
 
 # ✨ Grace in Abaya
 
@@ -15,7 +15,7 @@
 
 ---
 
-[Features](#-features) · [Tech Stack](#-tech-stack) · [Architecture](#-architecture) · [Getting Started](#-getting-started) · [API Reference](#-api-reference) · [Screenshots](#-screenshots)
+[Features](#-features) · [Tech Stack](#-tech-stack) · [Architecture](#-architecture) · [Getting Started](#-getting-started) · [API Reference](#-api-reference) · [Project Structure](#-project-structure)
 
 </div>
 
@@ -24,30 +24,30 @@
 ## 🎯 Features
 
 ### 🛒 E-Commerce Core
-- **Product Catalog** — Browse 6 categories of abayas, hijabs, and accessories with advanced filtering, search, sorting & pagination
-- **Shopping Cart** — Slide-out cart drawer with quantity controls and free shipping threshold (PKR 5,000+)
-- **Secure Checkout** — Stripe payment integration with order tracking
-- **Order Management** — Full order lifecycle: `pending` → `processing` → `shipped` → `delivered`
-- **Product Reviews** — Authenticated users can rate and review products (duplicate prevention)
+- **Product Catalog** — Browse 6 categories of abayas, hijabs, and accessories with advanced filtering, search, sorting & pagination.
+- **Shopping Cart** — Slide-out cart drawer with quantity controls and free shipping threshold (PKR 5,000+).
+- **Secure Checkout** — Stripe payment integration with order tracking.
+- **Order Management** — Full order lifecycle: `pending` → `processing` → `shipped` → `delivered`.
+- **Product Reviews** — Authenticated users can rate and review products (duplicate prevention).
 
 ### 🤖 AI-Powered Features (Google Gemini)
-- **Noor — AI Stylist Chatbot** — A warm, culturally-aware fashion assistant that helps with outfit recommendations, styling tips, and size guidance via a floating chat widget
-- **Fashion Planner Agent** — A 3-step agentic AI pipeline that creates personalized outfit plans using real catalog products based on occasion, budget, season, and color preferences
-- **Trend Miner** — Automated weekly trend report generation that identifies 7 seasonal modest fashion trends using AI analysis
+- **Noor — AI Stylist Chatbot** — A warm, culturally-aware fashion assistant that helps with outfit recommendations, styling tips, and size guidance via a floating chat widget.
+- **Fashion Planner Agent** — A 3-step agentic AI pipeline that creates personalized outfit plans using real catalog products based on occasion, budget, season, and color preferences.
+- **Trend Miner** — Automated weekly trend report generation that identifies 7 seasonal modest fashion trends using AI analysis.
 
 ### 👗 Wardrobe System
-- **Personal Wardrobe** — Save and organize wardrobe items (from purchases or manually added)
-- **AI Outfit Suggestions** — Get AI-powered outfit combinations from your existing wardrobe
+- **Personal Wardrobe** — Save and organize wardrobe items (from purchases or manually added).
+- **AI Outfit Suggestions** — Get AI-powered outfit combinations from your existing wardrobe.
 
 ### 🛡️ Admin Dashboard
-- **Overview** — Revenue stats, order counts, low stock alerts, recent orders
-- **Product Management** — Full CRUD with search, image URLs, color/size variants, tags
-- **Order Management** — Filter by status, inline status updates, order details view
+- **Overview** — Revenue stats, order counts, low stock alerts, recent orders.
+- **Product Management** — Full CRUD with search, image URLs, color/size variants, tags.
+- **Order Management** — Filter by status, inline status updates, order details view.
 
 ### 🔐 Authentication & Security
-- JWT-based authentication with protected routes
-- Password hashing with bcrypt
-- Role-based access control (customer / admin)
+- JWT-based authentication with protected routes.
+- Password hashing with bcrypt.
+- Role-based access control (customer / admin).
 
 ---
 
@@ -129,7 +129,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/grace-in-abaya.git
+git clone https://github.com/MuhammadMustafa1020/Grace-in-Abaya.git
 cd grace-in-abaya
 ```
 
@@ -341,16 +341,6 @@ grace-in-abaya/
 
 ---
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
@@ -364,4 +354,3 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 *Grace in Abaya — Where tradition meets technology*
 
 </div>
-]]>
